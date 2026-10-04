@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "V7PZ746K28.com.rvandenburgh.phase10",
+        "appIDs": ["V7PZ746K28.com.rvandenburgh.phase10"],
+        "paths": ["/tenstages/*"],
+        "components": [{ "/": "/tenstages/*", "comment": "Ten Stages invite links" }]
+      }
+    ]
+  }
+}
